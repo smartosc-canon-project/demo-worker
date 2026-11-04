@@ -1,2 +1,3 @@
-# greenfield-worker
-Greenfield sample for Canon: background worker, Python. Starts with no code.
+# demo-new-worker
+
+Demo new project for Canon: background worker, Python. Starts with no code.
